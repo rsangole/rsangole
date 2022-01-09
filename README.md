@@ -20,8 +20,8 @@ Find me on:
 Tools for time series analysis and forecasting, and datasets:
 <p align="left">
   <a href="https://github.com/rsangole/portfolio"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
-  <a href="https://github.com/rsangole/docker"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=docker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="docker"></a>
   <a href="https://github.com/rsangole/anomaly_db"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=anomaly_db&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="anomaly_db"></a>
+  <a href="https://github.com/rsangole/docker"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=docker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="docker"></a>
   <a href="https://github.com/rsangole/postgres"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=postgres&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="postgres"></a>
 </p>
 
