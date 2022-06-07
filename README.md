@@ -6,15 +6,14 @@ Topics that I'm excite me -
 * anomaly detection
 * time series forecasting
 * reproducible work & production readiness
-* package development
+* R package development
 * visualization
 
 Find me on:
-<p align="left">
-<a href="https://twitter.com/rsangole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rsangole" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/rahulsangole/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulsangole" height="30" width="30" /></a>
-</p>
-  
+- [:zap: My Blog](http://www.rsangole.com)
+- [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="20"/>](https://twitter.com/rsangole)
+- [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="20"/>](https://www.linkedin.com/in/rahulsangole/)
+
 ## Main projects
 
 Tools for time series analysis and forecasting, and datasets:
