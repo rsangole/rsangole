@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a data scientist at Apple where my work focuses on time-series forecasting and dashboarding. Before Apple, I worked as a data science manager at Cummins, an automotive engineering company, where I focused on developing time-series anomaly detection algorithms for engine health monitoring. In my former career, I worked as a mechanical engineer with a focus on computational stress, vibration and fatigue modeling.
+I'm a data scientist focusing on time-series analyses and forecasting in R. I've worked as a data science manager at an automotive engineering company, where I developed anomaly detection algorithms for engine health monitoring on multivariate IOT sensor data. I've been a 6S Black Belt, Product Validation Engineer, and FEA Analyst (computational stress, vibration and fatigue modeling).
 
 Topics that I'm excite me -
 * anomaly detection
