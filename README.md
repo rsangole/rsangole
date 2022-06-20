@@ -24,6 +24,11 @@ Tools for time series analysis and forecasting, and datasets:
   <a href="https://github.com/rsangole/postgres"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=postgres&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="postgres"></a>
 </p>
 
-## Other projects
+## Talks
+<p align="left">
+  <a href="https://github.com/rsangole/user2022-r-for-docker"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=user2022-r-for-docker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
+</p>
+
+## Misc
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rsangole&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="rsangole" />
