@@ -8,6 +8,8 @@ Topics that I'm excite me -
 * reproducible work & production readiness
 * R package development
 * visualization
+* visual astronomy
+* mechatronics (arduino, rpi)
 
 Find me on:
 - [:zap: My Blog](http://www.rsangole.com)
