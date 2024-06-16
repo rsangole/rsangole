@@ -12,23 +12,24 @@ Topics that I'm excite me -
 * mechatronics (arduino, rpi)
 
 Find me on:
-- [:zap: My Blog](http://www.rsangole.com)
-- [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="20"/>](https://twitter.com/rsangole)
-- [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="20"/>](https://www.linkedin.com/in/rahulsangole/)
+- [My Blog](http://www.rsangole.com)
+- [Medium](https://medium.com/@rsangole)
+- [LinkedIn](https://www.linkedin.com/in/rahulsangole/)
+
+
+## Talks
+<p align="left">
+  <a href="https://github.com/rsangole/user2022-r-for-docker"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=user2022-r-for-docker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
+  <a href="https://github.com/rsangole/oman-rusers-arrow"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=oman-rusers-arrow&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
+</p>
 
 ## Main projects
 
 Tools for time series analysis and forecasting, and datasets:
 <p align="left">
-  <a href="https://github.com/rsangole/portfolio"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
   <a href="https://github.com/rsangole/anomaly_db"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=anomaly_db&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="anomaly_db"></a>
   <a href="https://github.com/rsangole/docker"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=docker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="docker"></a>
   <a href="https://github.com/rsangole/postgres"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=postgres&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="postgres"></a>
-</p>
-
-## Talks
-<p align="left">
-  <a href="https://github.com/rsangole/user2022-r-for-docker"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=user2022-r-for-docker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
 </p>
 
 ## Misc
