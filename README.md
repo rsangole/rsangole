@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I'm a data scientist focusing on time-series analyses and forecasting in R. I've worked as a data science manager at an automotive engineering company, where I developed anomaly detection algorithms for engine health monitoring on multivariate IOT sensor data. I've been a 6S Black Belt, Product Validation Engineer, and FEA Analyst (computational stress, vibration and fatigue modeling).
+I'm a data scientist focusing on time-series analyses and forecasting, data visualization and ML. I've worked as a data science manager at an automotive engineering company, where I developed anomaly detection algorithms for engine health monitoring on multivariate IOT sensor data. While I'm a data scientist today, I'm also a mechanical engineer with experience in six sigma, product engineering, and structural analysis.
 
-Topics that I'm excite me -
+I spend time on
+
 * anomaly detection
 * time series forecasting
 * reproducible work & production readiness
 * R package development
 * visualization
 * visual astronomy
-* mechatronics (arduino, rpi)
 
 Find me on:
 - [My Blog](http://www.rsangole.com)
