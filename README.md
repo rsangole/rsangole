@@ -19,6 +19,7 @@ Find me on:
 
 ## Talks
 <p align="left">
+  <a href="https://github.com/rsangole/uros2024-interactive_baseplots"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=uros2024-interactive_baseplots&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
   <a href="https://github.com/rsangole/user2022-r-for-docker"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=user2022-r-for-docker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
   <a href="https://github.com/rsangole/oman-rusers-arrow"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rsangole&repo=oman-rusers-arrow&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
 </p>
